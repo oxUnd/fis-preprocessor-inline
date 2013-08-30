@@ -1,0 +1,1 @@
+console.log('sync load pkg_sync_1.js');
